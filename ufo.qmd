@@ -265,7 +265,7 @@ p8
 ```
 :::
 
-But from 2010 to 2012, sightings climbed again—reaching new heights and suggesting renewed public engagement with the UFO phenomenon. @cr-ufo-9
+But from 2010 to 2012, sightings climbed again, reaching new heights and suggesting renewed public engagement with the UFO phenomenon. @cr-ufo-9
 
 ::: {#cr-ufo-9}
 ```{r fig.retina=1, echo=FALSE, warning=FALSE, message=FALSE}
