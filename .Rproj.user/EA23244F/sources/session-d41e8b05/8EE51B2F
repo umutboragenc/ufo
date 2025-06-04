@@ -1,0 +1,31 @@
+{
+    "id": "8EE51B2F",
+    "path": "~/Downloads/comms_final_proj/ufo.qmd",
+    "project_path": "ufo.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1749068179770.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "13152:6093.125",
+        "cursorPosition": "368,0",
+        "scrollLine": "349"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1749068684,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1749068684171,
+    "read_only": false,
+    "read_only_alternatives": []
+}
