@@ -3,6 +3,7 @@ title: "Ufo Sightings in the United States"
 format:
   closeread-html:
     toc: true
+    self-contained: true
     cr-style:
       section-background-color: white
     code-overflow: wrap
